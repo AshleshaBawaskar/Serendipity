@@ -7,3 +7,5 @@ Learning java
 Learning Python
 
 Learning DeveOps
+
+Completed training
