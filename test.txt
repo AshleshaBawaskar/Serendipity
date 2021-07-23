@@ -1,0 +1,3 @@
+Welcome to GitHub!
+
+Learning to commit code
