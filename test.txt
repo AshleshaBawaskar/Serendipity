@@ -3,3 +3,7 @@ Welcome to GitHub!
 Learning to commit code
 
 Learning java
+
+Learning Python
+
+Learning DeveOps
