@@ -4,4 +4,10 @@ Learning to commit code
 
 Learning java
 
+Learning Python
+
+Learning DeveOps
+
+Completed training
+
 Final version
